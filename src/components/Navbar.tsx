@@ -7,7 +7,6 @@ import Link from "next/link"; // Import Next.js Link
 export default function Navbar() {
   return (
     <Box
-      as="header"
       width="100%"
       p="4"
       style={{
